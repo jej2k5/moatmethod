@@ -14,7 +14,7 @@ The goal of this repo is to make Moat Method™ GTM practices easier to adopt, o
 
 ## Skills
 
-### Moat Diagnostics
+## Moat Diagnostics
 Runs interactive GTM diagnostics for deep tech founders, covering:
 - Narrative Health
 - Competitive Displacement
@@ -25,7 +25,7 @@ Each diagnostic outputs a score, diagnosis, key signals, and 2-3 actionable next
 
 [Open the Moat Diagnostics skill](./moat-diagnostics.skill)
 
-### Signaly
+## Signaly
 
 Guided lead research that finds and scores prospects using custom signal criteria. Industry-agnostic. Walks you through defining your ICP and scoring signals, then researches and ranks matches. Built for outbound.
 
